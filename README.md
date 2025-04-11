@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sowjanya Kamuju
 
-<!--
-**SowjanyaKamuju/SowjanyaKamuju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML + Backend Developer transitioning into **Data Engineering**.  
+I love building clean, useful tools — from data pipelines to full-stack web apps.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python, Java, SQL
+- Django, Flask, React.js
+- MongoDB, PostgreSQL, Azure, Docker
+- Learning: Airflow, dbt, Cloud Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- ✨ Web App 1 – [Link](#)
+- 🔄 ETL Pipeline – coming soon!
+
